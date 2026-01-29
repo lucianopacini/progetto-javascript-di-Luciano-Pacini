@@ -1,6 +1,7 @@
 # Counter App 🚀
 
 ![Counter Preview](screenshot-counter.png)
+🔗 **Demo live:** [Clicca qui per vedere l’app funzionare](https://lucianopacini.github.io/progetto-javascript-di-Luciano-Pacini/)
 
 ## 📖 Descrizione
 Questa è una semplice **Counter App interattiva** sviluppata con **HTML, CSS e JavaScript**.  
