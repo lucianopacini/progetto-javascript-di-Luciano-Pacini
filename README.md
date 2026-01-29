@@ -2,7 +2,7 @@
 
 ![Counter Preview](screenshot-counter.png)
 🔗 **Demo live:** [Clicca qui per vedere l’app funzionare](https://lucianopacini.github.io/progetto-javascript-di-Luciano-Pacini/)
-
+🔗 **Repo codice sorgente:** [Clicca qui per vedere il repository](https://github.com/lucianopacini/progetto-javascript-di-Luciano-Pacini)
 ## 📖 Descrizione
 Questa è una semplice **Counter App interattiva** sviluppata con **HTML, CSS e JavaScript**.  
 Permette di incrementare, decrementare e resettare un contatore con animazioni, colori dinamici e un suono pop ad ogni click.  
