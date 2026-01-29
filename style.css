@@ -1,0 +1,95 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(135deg, #667eea, #764ba2);
+}
+
+#app {
+    background: linear-gradient(135deg, #ffffff, #f0f0f0);
+    /* colore base */
+    transition: background 0.3s;
+    padding: 40px;
+    border-radius: 16px;
+    text-align: center;
+    width: 320px;
+    box-shadow: 0 15px 40px rgba(0, 0, 0, 0.25);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+#app h1 {
+    font-size: 72px;
+    margin: 0;
+    color: #333;
+    transition: transform 0.2s, color 0.2s;
+}
+
+#app button {
+    font-size: 28px;
+    min-width: 70px;
+    height: 70px;
+    margin: 0 10px;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    background: #667eea;
+    color: white;
+    transition: transform 0.2s, background 0.2s;
+    padding: 15px;
+
+}
+
+#app button:hover {
+    background: #5a67d8;
+    transform: scale(1.1);
+    box-shadow: 0 0 15px rgba(255, 255, 255, 0.4);
+}
+
+#app button:active {
+    transform: scale(0.95);
+}
+
+/* Stile specifico per RESET */
+#app button:last-child {
+    background: #e53e3e;
+}
+
+#app button:last-child:hover {
+    background: #c53030;
+}
+
+#app button:last-child:active {
+    transform: scale(0.95);
+    background: #d53e3e;
+    /* un rosso un po' più scuro quando premi */
+}
+
+.counter-positive {
+    color: #38a169;
+}
+
+
+.counter-negative {
+    color: #e53e3e;
+}
+
+.counter-zero {
+    color: #333;
+}
+
+#app button span {
+    display: inline-block;
+    position: relative;
+    top: -3px;
+
+}
