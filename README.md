@@ -1,13 +1,13 @@
 # Counter App 🚀
 
 ![Counter Preview](screenshot-counter.png)
-🔗 **Demo live:** [Clicca qui per vedere l’app funzionare](https://lucianopacini.github.io/progetto-javascript-di-Luciano-Pacini/)
-🔗 **Repo codice sorgente:** [Clicca qui per vedere il repository](https://github.com/lucianopacini/progetto-javascript-di-Luciano-Pacini)
+**Demo live:** [Clicca qui per vedere l’app funzionare](https://lucianopacini.github.io/progetto-javascript-di-Luciano-Pacini/)
+**Repo codice sorgente:** [Clicca qui per vedere il repository](https://github.com/lucianopacini/progetto-javascript-di-Luciano-Pacini)
 ## 📖 Descrizione
 Questa è una semplice **Counter App interattiva** sviluppata con **HTML, CSS e JavaScript**.  
 Permette di incrementare, decrementare e resettare un contatore con animazioni, colori dinamici e un suono pop ad ogni click.  
 Il valore del contatore viene salvato automaticamente nel **localStorage**, così da mantenerlo anche dopo il refresh della pagina.
-
+git
 ## 🛠 Tecnologie
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
